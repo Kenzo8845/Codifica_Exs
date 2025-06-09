@@ -1,0 +1,5 @@
+Tema = Minecraft
+Musica = Sim
+Fonte = Comic_Sans
+Idioma = Portugues
+Salvamento_Automatico = Não
